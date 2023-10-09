@@ -1,0 +1,13 @@
+{
+    "translation": {
+        "general": {
+            "loading": "Carregando...",
+            "you": "Você"
+        },
+        "chat": {
+            "title": "Conversa",
+            "placeholderInput": "Escreva sua mensagem...",
+            "buttonLabel": "Enviar"
+        }
+    }
+}
